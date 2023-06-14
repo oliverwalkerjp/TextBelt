@@ -3,6 +3,11 @@
 TextBelt Bot is a customized software which has the ability to send mass sms using Textbelt.com **api key**. 
 This tool is 100% free, no purchase fee. Is TextBelt.com reliable? Yes! To get Textbelt Api, visit **Textbelt.com**, they only accept paypal and credit card for payment.
 
+## Disclaimer
+
+This Software was created for good purposes and personal use only. Provided "AS IS" without warranty of any kind. Use this program at your own risk. The use is complete responsibility of the end user. The developers assume no liability and are not responsible for any misuse or damage caused by this program. 
+
+
 ## Folder and file structure
 
  - TextBelt.exe
